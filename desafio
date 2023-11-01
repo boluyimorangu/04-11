@@ -1,0 +1,13 @@
+
+void main() {
+  var mensagem = "holis, mati! feliz 2 anos de amizade";
+
+  for (var i = 0; i < 5; i++)
+    print("Número: $i");
+
+  var nome = "fofinho";
+
+  if (5 = 5) {
+    print("um desafio para você! complete e ganhe seu presentito")
+  }
+}
