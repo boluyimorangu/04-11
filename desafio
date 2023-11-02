@@ -1,15 +1,13 @@
-
 void main() {
-  var mensagem = "holis, mati! feliz 2 anos de amizade";
+  var mensagem = "holis, mati! feliz 2 anos de amizade"
 
   for (var i = 0; i < 5; i++) 
     print("Número: $i");
-  }
-
+  
   var nome = "fofinho";
 
   if (5 == 5) {
-    print("todos os erros foram corrigidos! aqui está o link para seu presentito:");
-    print("https://github.com/boluyimorangu/04-11/blob/717ef8de810552af25e510c58024161c73f74c7c/04-11.pdf");
+    print("todos os erros foram corrigidos! aqui está o seu presentito:");
+    print("https://github.com/boluyimorangu/04-11/raw/main/04-11.pdf");
   }
 }
